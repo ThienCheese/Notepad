@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+eZVBstcZZk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ngthi\\source\\repos\\NetworkSniffer\\NetworkSniffer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ngthi\\.nuget\\packages\\packetdotnet\\1.4.7\\packetdotnet.1.4.7.nupkg.sha512",
+    "C:\\Users\\Ngthi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
